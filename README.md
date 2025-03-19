@@ -2,7 +2,7 @@
 I'm a Python and Django developer with a passion for learning and improving my skills. Currently, I'm completing my Systems Analysis and Development course, and I’m continuously enhancing my knowledge through courses on Udemy.
 
 👀 I’m interested in:
-Building web applications with Python and Django
+Building web applications with Python, Django, Java, Spring boot
 Enhancing front-end development with HTML, CSS, Bootstrap, and JavaScript
 System analysis, design, and development
 Exploring UI/UX design principles and integrating them into my projects
